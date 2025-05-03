@@ -77,4 +77,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-This README should cover the essential details and help others understand how to set up and use your project. Let me know if you'd like any changes!
